@@ -371,6 +371,11 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
