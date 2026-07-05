@@ -386,6 +386,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "1689ab92b06bdbb37a960d9c820d13b5ec91fc1108ec9e40c19be1090c121adc"
+metafile = true
+
+[[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
 hash = "54a090b46698cc6330f65739b82983508850c15596bac67da651176b6aa9feae"
 metafile = true
