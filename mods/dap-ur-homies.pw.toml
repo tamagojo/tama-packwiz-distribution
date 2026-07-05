@@ -1,0 +1,13 @@
+name = "DAP ur Homies!"
+filename = "DAP ur Homie!2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V3QHTHDA/versions/dfSSTarO/DAP%20ur%20Homie%212.2.1.jar"
+hash-format = "sha512"
+hash = "e22ace17b2944c7596623e81bab90be89b15bb482eaeaffc666a83a573376e8ee1d0836db85548d83ce776f0209c9de162549ee2b9f6fb4497352cce10ca3c1f"
+
+[update]
+[update.modrinth]
+mod-id = "V3QHTHDA"
+version = "dfSSTarO"

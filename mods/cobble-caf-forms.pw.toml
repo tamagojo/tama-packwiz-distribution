@@ -1,0 +1,13 @@
+name = "Cobblemon cafe"
+filename = "cobble-caf-forms-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/469QXqgC/versions/NEndOzch/cobble-caf-forms-5.0.0.jar"
+hash-format = "sha512"
+hash = "b012b10ad51b24ada42de89131cade947edb3d9bd90ab4b449d27c41b6e82c73fa45eb20844d07f745739f8f9a8a0bacc4cc799f03b4162f450c2e3b6c1f78df"
+
+[update]
+[update.modrinth]
+mod-id = "469QXqgC"
+version = "NEndOzch"

@@ -1,0 +1,13 @@
+name = "Cobblemon Challenge"
+filename = "cobblemonchallenge-neoforge-2.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpJB1Qk6/versions/1feQg7wz/cobblemonchallenge-neoforge-2.4.0.jar"
+hash-format = "sha512"
+hash = "0b7b6b6068d000b11750ce6647314e77ac4885fdf9a2e60b566f96a000ff60eefe4d5c49e4f54d9475c9e248c3dfb5ee54b11d324ee89d7c2b6dab1125d8e1f2"
+
+[update]
+[update.modrinth]
+mod-id = "XpJB1Qk6"
+version = "1feQg7wz"
