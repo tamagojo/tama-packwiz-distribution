@@ -186,6 +186,11 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "6a1ac120ec1ef42efa9be09d5316b8719294be29c44ed62b00ec2dc508227f5d"
+metafile = true
+
+[[files]]
 file = "mods/create-capsule-corp..pw.toml"
 hash = "f4399ea0e3f6238bfffd93bf252a265d7e47a20d8f948dd7f6199f87e43ca12f"
 metafile = true
