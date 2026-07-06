@@ -186,11 +186,6 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
-file = "mods/create-bits-n-bobs.pw.toml"
-hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
-metafile = true
-
-[[files]]
 file = "mods/create-capsule-corp..pw.toml"
 hash = "f4399ea0e3f6238bfffd93bf252a265d7e47a20d8f948dd7f6199f87e43ca12f"
 metafile = true
@@ -428,9 +423,4 @@ metafile = true
 [[files]]
 file = "mods/strut-your-stuff.pw.toml"
 hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
