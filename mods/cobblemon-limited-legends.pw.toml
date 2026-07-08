@@ -1,0 +1,13 @@
+name = "Cobblemon: Limited Legends"
+filename = "LimitedLegends-neoforge-1.9.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qnqskRj/versions/hCi3uguU/LimitedLegends-neoforge-1.9.0.jar"
+hash-format = "sha512"
+hash = "6790be4cd9dd161b6f9d8f0293b1fd163bf9a88804b86f835975eac2b3f3c6845b9d8f0bece4f9c7cd6532a613d6410f3212475ecb6e81c4d765b3f06553a5e1"
+
+[update]
+[update.modrinth]
+mod-id = "4qnqskRj"
+version = "hCi3uguU"

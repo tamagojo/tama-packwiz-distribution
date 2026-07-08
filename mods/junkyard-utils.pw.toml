@@ -1,0 +1,13 @@
+name = "Junkyard Utils"
+filename = "junkyard_utils-1.1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y6imdEG7/versions/pUtl6XNx/junkyard_utils-1.1.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "cedabd2521646aa463caaa3037cee718de41241d865902e5448896aeec6e02b723b43e7a8b1f0ef5cbcf7e76a9f1a9b25506be6a9a41e2d230c0ce1e67090d90"
+
+[update]
+[update.modrinth]
+mod-id = "y6imdEG7"
+version = "pUtl6XNx"

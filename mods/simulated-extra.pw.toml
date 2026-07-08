@@ -1,0 +1,13 @@
+name = "Simulated Extra"
+filename = "simulatedextra-0.3-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L064RU4O/versions/HtKNrbWA/simulatedextra-0.3-beta.jar"
+hash-format = "sha512"
+hash = "b7a82d2afba2842d684525745f91c44da608506494f816833623e18eee9210f468ee0e7e1ed37b1c149e4f71e2c8bd6c42fd3da258ce38dfe7958402aab26df3"
+
+[update]
+[update.modrinth]
+mod-id = "L064RU4O"
+version = "HtKNrbWA"
