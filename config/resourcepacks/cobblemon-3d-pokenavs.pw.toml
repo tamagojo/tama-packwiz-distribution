@@ -1,0 +1,13 @@
+name = "Cobblemon 3D Pokenavs"
+filename = "iB - 3D Cobblenav-FabricPatch.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/APfalZZx/versions/EyL5V85c/iB%20-%203D%20Cobblenav-FabricPatch.zip"
+hash-format = "sha512"
+hash = "8a244df8c297dd29ea3497166827bd1f2bfe4993b42a4e5c307a20b39ceb7465d05382235a48913ae3b041e616a3d109963dfe79cf958bf12c33fc96c0e74e24"
+
+[update]
+[update.modrinth]
+mod-id = "APfalZZx"
+version = "EyL5V85c"

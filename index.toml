@@ -1,6 +1,45 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "717c920b406cf6ae8ac43ac402373660be271e78f27fb32aa4f522ee5d51d1ba"
+metafile = true
+
+[[files]]
+file = "config/resourcepacks/cobblemon-3d-poke-rods.pw.toml"
+hash = "a07092570c4bc9b945851e7364b931b04bae22c7190bc1e384d73fc66f4c6f91"
+metafile = true
+
+[[files]]
+file = "config/resourcepacks/cobblemon-3d-pokenavs.pw.toml"
+hash = "1a00e5938241c02515df63e4873a5ee2ef164c5f587013c37e7001d027869827"
+metafile = true
+
+[[files]]
+file = "config/resourcepacks/cobblemotion.pw.toml"
+hash = "f8b1c73eb8a2b1119f9401b505171284aa9212fa697614c8554dd5cce3f3620a"
+metafile = true
+
+[[files]]
+file = "config/resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "224356816f38b00457a54268435fc051f03b8f649cf9df099c676e5641f9b57f"
+metafile = true
+
+[[files]]
+file = "config/resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "config/resourcepacks/fully-hisuian-starters.pw.toml"
+hash = "94071b91d3cd455ffd0a6252d56f1d1996021386825710cce3a0f3c9c8e3a41a"
+metafile = true
+
+[[files]]
+file = "config/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
