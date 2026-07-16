@@ -245,11 +245,6 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
-file = "mods/create-capsule-corp.pw.toml"
-hash = "ac3d7d466d064e43069b685c40c01f345a79335f26b189cba3f967fbf2f0eb34"
-metafile = true
-
-[[files]]
 file = "mods/create-curios-backtank.pw.toml"
 hash = "b0b4885a5a790bf798b78ae45fa57c258abb8803c45ee6b21f1f85c8c24108fd"
 metafile = true
