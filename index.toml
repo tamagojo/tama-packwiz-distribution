@@ -95,6 +95,11 @@ hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
 metafile = true
 
 [[files]]
+file = "mods/chemica.pw.toml"
+hash = "65f74f40a3348d7407904828840cfa25d635661c604c564be0eed711c1799add"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
@@ -210,6 +215,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats-weight-tweak.pw.toml"
+hash = "3977a5be7d9be425a40f67324c88f8b9824872afcd637a96d2f2a8cbaee7e7d3"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+metafile = true
+
+[[files]]
+file = "mods/create-compact_transmission.pw.toml"
+hash = "e039ec0d1711ec6d177ad42829aa0eacd305de441b4c59c03006be3087845882"
 metafile = true
 
 [[files]]
@@ -517,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
+metafile = true
+
+[[files]]
+file = "mods/hots-aerostuff.pw.toml"
+hash = "e10bec77c4660bf629b9e61e1384c18884395f7a8bc1a7d3f0720358f1a75f64"
 metafile = true
 
 [[files]]
