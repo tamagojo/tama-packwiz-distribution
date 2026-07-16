@@ -245,11 +245,6 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
-file = "mods/create-capsule-corp.pw.toml"
-hash = "ac3d7d466d064e43069b685c40c01f345a79335f26b189cba3f967fbf2f0eb34"
-metafile = true
-
-[[files]]
 file = "mods/create-curios-backtank.pw.toml"
 hash = "b0b4885a5a790bf798b78ae45fa57c258abb8803c45ee6b21f1f85c8c24108fd"
 metafile = true
@@ -827,4 +822,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
