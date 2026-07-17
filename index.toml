@@ -40,11 +40,6 @@ hash = "4979041f1faac00b2ccf898d49cefc83dda21424031e5de71ee35f80ad9ff84a"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/styles-on-styles.pw.toml"
-hash = "ec380783c4e56686f0d2652ee1d91fc930e638904b4cef65cd8947731c3ae559"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "d136f082a706b21a11b7e35bb805582966e9455f4fbeae9a02387b7dbc4c3574"
 metafile = true
