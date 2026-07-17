@@ -1,0 +1,8 @@
+name = "styles on styles"
+filename = "styles-upon-styles"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LizLsGI4/versions/mciGBcOg/StylesUponStyles.v.1.4.zip?mr_download_reason=standalone"
+hash-format = "sha256"
+hash = "681297ede494653477fef564ddb859a17829fbc00ca34ec355c28ce437be099c"
