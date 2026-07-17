@@ -1,0 +1,13 @@
+name = "Cobblemon: FailSkins"
+filename = "Failskins 9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GFTKLMrj/versions/ftVkRf8v/Failskins%209.1.jar"
+hash-format = "sha512"
+hash = "97ca56efb6bc51e156bcdad60279eb0a540de2520d41d3a7359821b7da2e86c0a7436ab014295b0937a4f9b39cb16f53a8b196bff894704dedf1699d9bf6636e"
+
+[update]
+[update.modrinth]
+mod-id = "GFTKLMrj"
+version = "ftVkRf8v"
