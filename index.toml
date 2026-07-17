@@ -40,6 +40,11 @@ hash = "94071b91d3cd455ffd0a6252d56f1d1996021386825710cce3a0f3c9c8e3a41a"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/styles-on-styles.pw.toml"
+hash = "3454cb0693bf76aa356b5be6bffcd45fee2b04c168878e9421d626418bc7ce70"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "1a611a71baaf48d69f2a0fd226bc302b766ba0f54feabea802e28d51a40879ef"
 metafile = true
 
 [[files]]
@@ -142,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-challenge.pw.toml"
 hash = "86715e976d87465c2be4a18eee4944bf6b8d4d82b42ca41fbe3f9bf12bc3bad5"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-failskins.pw.toml"
+hash = "5b7243f458242246cedd7ccf224cddfb4ecf8ba03e0d70204eb7618cd4451d7a"
 metafile = true
 
 [[files]]
@@ -207,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
@@ -722,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/sablecompat.pw.toml"
 hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
 metafile = true
 
 [[files]]
