@@ -740,11 +740,6 @@ hash = "25fbe10bb90727587799965fa3de0fd640529516bbd1d95d87e8ad01f2adafc8"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "f901927ea2bcb7493e6aa89d4a91c51f1726c1c49212d0b96540f3d4aba244b2"
-metafile = true
-
-[[files]]
 file = "mods/scholar.pw.toml"
 hash = "fd30c118e27f0e63848892bb05ba1cda6b4769e7027938013f8ab2518da39281"
 metafile = true
