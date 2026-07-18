@@ -590,6 +590,11 @@ hash = "2e16af87696f93732c20c9ee426b2e27996bee140be17c26011fe47fec586de2"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
+metafile = true
+
+[[files]]
 file = "mods/junkyard-utils.pw.toml"
 hash = "83119777b7149e742f714a1ccee82ac88d7a75137de8940d2f53fb2e5d175238"
 metafile = true
