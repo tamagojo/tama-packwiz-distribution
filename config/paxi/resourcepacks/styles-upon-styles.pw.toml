@@ -1,0 +1,13 @@
+name = "Styles Upon Styles - Cobblemon Costume Pack"
+filename = "StylesUponStyles.v.1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LizLsGI4/versions/mciGBcOg/StylesUponStyles.v.1.4.zip"
+hash-format = "sha512"
+hash = "100668a9b2576a2828999d0bdfd6c05833d3c3b5e7c39963d0f0d49aeb4c79ed98b94d08d1715c92069c0f14581ee06a73ce1b8b51106e81ab522454d6294cd9"
+
+[update]
+[update.modrinth]
+mod-id = "LizLsGI4"
+version = "mciGBcOg"
