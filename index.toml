@@ -485,6 +485,11 @@ hash = "44e7c230a4b19e87ad143bea49d2042c6138d6246ad2fb08c1e410d3a457a260"
 metafile = true
 
 [[files]]
+file = "mods/extra-move-anims-cobblemon.pw.toml"
+hash = "9c3e7688ee3b53f2bfb390611a137b25619a71fc284c608f7e45a82342d966be"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fb00546284ecd779286968f4d90802cf45c587860a856964ad8a8bb827f328d4"
 metafile = true
