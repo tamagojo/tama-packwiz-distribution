@@ -240,6 +240,16 @@ hash = "aa9c0d138dae3e5b23e7917f7fdb2e5cb68229278798ea247f0f0dd4f5ea01f7"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-survival-physics-staff.pw.toml"
+hash = "fd1a6bf689cf7ceefc0aef6ba16fd0875a3df2b768462392136b07ef92d1ef3b"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-toolgun.pw.toml"
+hash = "2ee1658abd1dc7134dac94b329fc913e12d4e2d1cb235ba2c2e34d81efd4f900"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 hash = "904fb93162b5f6623dbcc14a1b8c6febf94df78763120949aaad65179752b6cd"
 metafile = true
@@ -735,6 +745,11 @@ hash = "073fc8dc9d0611a638efa8b4e32e1f648b60c5d9857aee35fb9d6069ec19396e"
 metafile = true
 
 [[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
+metafile = true
+
+[[files]]
 file = "mods/sable-schematic-tool.pw.toml"
 hash = "de560f3061edf0acb35d5d7f9b5df8aa2c58d4933ce4f7a402a60622207f127d"
 metafile = true
@@ -868,6 +883,14 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
 metafile = true
+
+[[files]]
+file = "pull_latest.bat"
+hash = "067a65747fc862a56014d95564b42e8c24190778096169c9e9010e6868e714f4"
+
+[[files]]
+file = "refresh_commit_push.bat"
+hash = "39e529577820b98bb5399d302d5bddbdee20944da8057910d1da437a9b2452f8"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
