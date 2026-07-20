@@ -1,0 +1,13 @@
+name = "Create: Compact Gearbox - Transmisson"
+filename = "compactgearbox-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2c3b4cee586876b12356a8d8ac42cd44cda9edc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8026557
+project-id = 1527808

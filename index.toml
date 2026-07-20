@@ -290,8 +290,13 @@ hash = "f8c2334eb06dda015b6ea1f2a89ec90dc1a04b0e891d61d3b637efde4529c3e9"
 metafile = true
 
 [[files]]
+file = "mods/create-compact-gearbox-transmisson.pw.toml"
+hash = "292b507e49c06075d9ad977b263444842a84133c5808d364fca3308c5255d4e0"
+metafile = true
+
+[[files]]
 file = "mods/create-compact_transmission.pw.toml"
-hash = "5c263ba11d0367b1b3a8312123bdcb9ab29e6686b0d20e0465745c81c5b9c06e"
+hash = "e039ec0d1711ec6d177ad42829aa0eacd305de441b4c59c03006be3087845882"
 metafile = true
 
 [[files]]
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "ab61112cdd551cf92f24df3400effd4023748d2197709f0783320de1b96ca08e"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks+.pw.toml"
+hash = "967d62bf386e87dc66ebe3dd2d6e1368bd0d0c155cb6f120a37c37802165920c"
 metafile = true
 
 [[files]]
@@ -680,6 +690,11 @@ hash = "ecfbfe203d66a2e158fd726fd93ff4f4eeaccf74fe44d6a389c924318738c2f8"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+metafile = true
+
+[[files]]
 file = "mods/more-cobblemon-tweaks.pw.toml"
 hash = "d456b9d7906d60c162847063fce8b92e1f7be6f484a806b4c37d8334cf0c1ca5"
 metafile = true
@@ -855,6 +870,11 @@ hash = "6f50a499ed5067ab40ea715fcfafb40a5ebb186a15dc15423aa685ee04e0c6d1"
 metafile = true
 
 [[files]]
+file = "mods/synaxis.pw.toml"
+hash = "b85fc287764ecbea60ac369f249df22566e30033a17af2190625bbd75ff133e1"
+metafile = true
+
+[[files]]
 file = "mods/terralith-restoned.pw.toml"
 hash = "5e3bdfa7dfbb1bfcf8bcdbfe4c44aa1c563c960cba71e95ae31ab375c75c27ef"
 metafile = true
@@ -887,6 +907,11 @@ metafile = true
 [[files]]
 file = "mods/trek.pw.toml"
 hash = "a28248f9ab824a733465abc1b1c3167d9daf4a35bc509fe916beed39dfa48d62"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "ac47c20d97ad6eec049684f3accf4552d96c73e28fe9404cf3dcc7bbeb9b5237"
 metafile = true
 
 [[files]]
