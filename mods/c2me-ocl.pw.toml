@@ -1,0 +1,13 @@
+name = "C2ME OpenCL Acceleration Module"
+filename = "c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.115.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qtPMklut/versions/7qYCddKm/c2me-neoforge-opts-accel-opencl-mc1.21.1-0.4.0-alpha.0.115.jar"
+hash-format = "sha512"
+hash = "d9f7dd814cddff984ac4ea10a4c850aae67ca62eaae911853d2bac949b9fa1fe1792941cae763f56d1569a77c1d1bf476f01daa2b59410a335213a549040a9f4"
+
+[update]
+[update.modrinth]
+mod-id = "qtPMklut"
+version = "7qYCddKm"

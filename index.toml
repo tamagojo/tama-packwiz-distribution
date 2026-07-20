@@ -95,6 +95,11 @@ hash = "611e082a8ad377fd96f77b0a241cd8e4c1d5acfa415add28b59505b6697b1a33"
 metafile = true
 
 [[files]]
+file = "mods/c2me-ocl.pw.toml"
+hash = "f9abafd3789eda31684af7570adae655414d2827c1bcccdcfb9b0ce876963801"
+metafile = true
+
+[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "d8a98b212b5a00a2859a45fd0dea0ce1df3a6ff8fbc5c2bc0bf166b80e217500"
 metafile = true
@@ -240,6 +245,11 @@ hash = "aa9c0d138dae3e5b23e7917f7fdb2e5cb68229278798ea247f0f0dd4f5ea01f7"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-harness.pw.toml"
+hash = "02dddc915101be671d7e5558e8397dbad36600529a410890f7f496766878d42e"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-survival-physics-staff.pw.toml"
 hash = "fd1a6bf689cf7ceefc0aef6ba16fd0875a3df2b768462392136b07ef92d1ef3b"
 metafile = true
@@ -332,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/create-extra-gauges.pw.toml"
 hash = "7a400a0a24002b86c281c133e60e030367dd748a21747b6c2768e2752ea738cd"
+metafile = true
+
+[[files]]
+file = "mods/create-kinetic-grip.pw.toml"
+hash = "9cbc43b7e0d958c45b733f1408ecf477f4fc199ded13ee2c5c85aeed8f20bddb"
 metafile = true
 
 [[files]]
@@ -757,6 +772,11 @@ metafile = true
 [[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
+metafile = true
+
+[[files]]
+file = "mods/sable-scaling.pw.toml"
+hash = "7eed8c735701ec46c77a5b888e6d0f4c94a6166fbc3eb7b02da8ec727cb2fd5e"
 metafile = true
 
 [[files]]

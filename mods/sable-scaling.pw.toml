@@ -1,0 +1,13 @@
+name = "Sable Scaling"
+filename = "sable-scale-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9f2b7610f414f5df1467facabc5b66d9dc0ab60"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8440989
+project-id = 1607775
