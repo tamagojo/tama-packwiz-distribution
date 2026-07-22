@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "0a70ce7ee038b278cbb4ea38d913694f64551dd6c804a2a7e18c591755d168a6"
+hash = "f601395e34dd1c6c92936e6de7bf89a178bedebd39c2d47561afe394f3c66b15"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "2ee1658abd1dc7134dac94b329fc913e12d4e2d1cb235ba2c2e34d81efd4f900"
+hash = "bdd4a0cccfcd1268f0096748aa22c133d4b6f80960e3180baf12b3f5765cd7b4"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "ebb0e09ed5e297e8b5339da7e00cefe5353cb9d4082fbda78e2e6192f6d011e3"
+hash = "4d39abcfd72687f34d242c7909e92a9dd57cb35aa4203ceb16daf35f6aa4a57c"
 metafile = true
 
 [[files]]
