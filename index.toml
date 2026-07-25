@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compact_transmission.pw.toml"
-hash = "5c263ba11d0367b1b3a8312123bdcb9ab29e6686b0d20e0465745c81c5b9c06e"
+hash = "e039ec0d1711ec6d177ad42829aa0eacd305de441b4c59c03006be3087845882"
 metafile = true
 
 [[files]]
