@@ -1,13 +1,13 @@
 name = "Sable Scaling"
-filename = "sable-scale-1.1.0.jar"
+filename = "sable-scale-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c9f2b7610f414f5df1467facabc5b66d9dc0ab60"
+hash = "cc80c3947d1f1bf7a6519de7a85b81bf552839f3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8440989
+file-id = 8471054
 project-id = 1607775

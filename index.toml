@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "f601395e34dd1c6c92936e6de7bf89a178bedebd39c2d47561afe394f3c66b15"
+hash = "cfa9a5b9b203c6c7f06ed44845b07a4b511c5f8ec0472bfcc38404b367d261d5"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "9efef8f1c2578194bedba6f7aab8146144961e1d984a5e90f45eca98a1a3e6f7"
+hash = "191d6740f6c6d922db25f52271d006bed3508785f6f035e6068b3a21b3900354"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "007a7889eb4e618d28de06944be4f2b07fe88f76c69d5bea84900b76dd16095b"
+hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
-hash = "c85ff6204c2b3f56f224506c081ca9b7fb0060d8d9c8764608426c06cd397068"
+hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
 metafile = true
 
 [[files]]
@@ -401,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "54a158a86a3087a85b4f000fe16ecd91b891cf031ec6629abe9f19dd986840c6"
+metafile = true
+
+[[files]]
+file = "mods/create-xaeros-map.pw.toml"
+hash = "b3999049733f8146ca809825b065880acc2e3e1fee5603a0534f2605de191cf3"
 metafile = true
 
 [[files]]
@@ -665,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "c242df215ffe81e2b62513ab462ec091221bc41e66b43f6edc588b2476023c7e"
+hash = "39d87e1be0bfccbd2997a0c13600f8b2282b55fecd51548b6f0f29896daa002a"
 metafile = true
 
 [[files]]
@@ -725,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "4d39abcfd72687f34d242c7909e92a9dd57cb35aa4203ceb16daf35f6aa4a57c"
+hash = "1bf20cef5da92390afb3b535347ff7b2863a167c649e84c313aa9e606b0abeff"
 metafile = true
 
 [[files]]
@@ -800,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-scaling.pw.toml"
-hash = "7eed8c735701ec46c77a5b888e6d0f4c94a6166fbc3eb7b02da8ec727cb2fd5e"
+hash = "246fb6a0392de96e6981418d02a84c84a6c48ff1db7f3f309257846398af9e89"
 metafile = true
 
 [[files]]
