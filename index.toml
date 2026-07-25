@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cobblemon_incubator.json"
+hash = "1567ba72f166d3eeb3ceb1d3b455feecb6caa4e9c2d6b110961dd4679c8b9f46"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
@@ -165,6 +169,11 @@ hash = "a6b6082202e27bfc44f0c2ddc1e015b6513c472e191a207ae81e996a8a9c3748"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-incubator.pw.toml"
+hash = "24fcd9e7bed34e2de04431fba25823eb601d615e9a5a636a7cfd5cd90814cd64"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-integrations.pw.toml"
 hash = "649dd79300d6f9d663aa6aa3c5632b93628b4f221662816c37f7d7acc8024da9"
 metafile = true
@@ -296,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compact_transmission.pw.toml"
-hash = "e039ec0d1711ec6d177ad42829aa0eacd305de441b4c59c03006be3087845882"
+hash = "5c263ba11d0367b1b3a8312123bdcb9ab29e6686b0d20e0465745c81c5b9c06e"
 metafile = true
 
 [[files]]

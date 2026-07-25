@@ -1,0 +1,13 @@
+name = "Cobblemon Incubator"
+filename = "cobblemon_incubator-neoforge-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iCjYB9NB/versions/NEDkggEo/cobblemon_incubator-neoforge-1.0.4.jar"
+hash-format = "sha512"
+hash = "05f7453b16beb9acd92400ca81f5fee794f7bdd31c2be2f6bc60611216e0ae519727f11d822de770a36be1e25c35da4b23e0959be3b6a0f7492cde7bdd0604e2"
+
+[update]
+[update.modrinth]
+mod-id = "iCjYB9NB"
+version = "NEDkggEo"

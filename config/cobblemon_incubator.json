@@ -1,0 +1,36 @@
+{
+  "baseSpeed": 5,
+  "speedUpgradeMultiplier": 2.0,
+  "ignoreFilterOnShiny": true,
+  "display": {
+    "pokemonModel": true,
+    "species": true,
+    "nature": false,
+    "ability": false,
+    "ivs": false
+  },
+  "upgrades": {
+    "speed": true,
+    "pc": true,
+    "filter": false,
+    "analyse": false
+  },
+  "filters": {
+    "species": true,
+    "nature": true,
+    "ability": true,
+    "ivs": true,
+    "rejectAction": true,
+    "deleteRejectedEggs": true
+  },
+  "automation": {
+    "autoInputFromPastures": true,
+    "autoOutputToInventories": true
+  },
+  "geneFusion": {
+    "isEnabled": false,
+    "chargePerLevel": 0.5,
+    "costMultiplier": 1.0,
+    "syringeMaxCharge": 500
+  }
+}
