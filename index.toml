@@ -805,12 +805,12 @@ metafile = true
 
 [[files]]
 file = "mods/sable-scaling.pw.toml"
-hash = "246fb6a0392de96e6981418d02a84c84a6c48ff1db7f3f309257846398af9e89"
+hash = "77a8babdad2c10fe5cdde660a8fe53ede39b749adfe3092d369d81a5f00dbe30"
 metafile = true
 
 [[files]]
 file = "mods/sable-schematic-tool.pw.toml"
-hash = "de560f3061edf0acb35d5d7f9b5df8aa2c58d4933ce4f7a402a60622207f127d"
+hash = "396cc8f9a562c9592c835569ac3ba5373e479b2e8c4bd385f99f835a9cfbf5ed"
 metafile = true
 
 [[files]]
