@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-rail-grinding.pw.toml"
-hash = "c71bb895f0149f9df4eb89168b818cbd77cb83bf5a11954bee8a60a26ef28ea7"
+hash = "96cb3a63a8cea76798153bfeeedab94d487210040a07b08c2df0e401ea85c137"
 metafile = true
 
 [[files]]
