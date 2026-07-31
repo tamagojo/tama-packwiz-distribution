@@ -10,7 +10,7 @@ hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/paxi/resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
-hash = "a3e0e85dc10b54d71990d4beb80475363d115efb6f9c586e8cb7d491e59378ad"
+hash = "1cf6f482ecd3cd706e5b38640333a1492d31011b491c7ca44897af572fe4379a"
 metafile = true
 
 [[files]]
@@ -299,6 +299,16 @@ hash = "f8c2334eb06dda015b6ea1f2a89ec90dc1a04b0e891d61d3b637efde4529c3e9"
 metafile = true
 
 [[files]]
+file = "mods/create-buzzy-bees.pw.toml"
+hash = "3e012a3b06c19698655f6a13da335ca0c93ec97d484875d32ff0dab2139c8cda"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "b06582bdf461277d180b55a2ffc6ab3f41196858c4866692bf473a6413d867f4"
+metafile = true
+
+[[files]]
 file = "mods/create-compact-gearbox-transmisson.pw.toml"
 hash = "292b507e49c06075d9ad977b263444842a84133c5808d364fca3308c5255d4e0"
 metafile = true
@@ -371,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "df11e99922d21336ecfbb0c8ffb6ed942c2f73e32658b39afd1c4edf6b5d0ab3"
+metafile = true
+
+[[files]]
+file = "mods/create-rail-grinding.pw.toml"
+hash = "c71bb895f0149f9df4eb89168b818cbd77cb83bf5a11954bee8a60a26ef28ea7"
 metafile = true
 
 [[files]]
@@ -786,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "c5cf2f8a5a12c1d5cb244981758608bd56670cf1c3ade6618a2fdcda24ce1f87"
+metafile = true
+
+[[files]]
+file = "mods/repackaged.pw.toml"
+hash = "55a6245d3b767ba1d0120f83c00a6e1732bdcd166eb4b943e44418980760f090"
 metafile = true
 
 [[files]]
