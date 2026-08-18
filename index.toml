@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-scaling.pw.toml"
-hash = "77a8babdad2c10fe5cdde660a8fe53ede39b749adfe3092d369d81a5f00dbe30"
+hash = "4b88170ac178eac2111da8323690fb4f6910d2f763fac09105cb1da104700b7d"
 metafile = true
 
 [[files]]
