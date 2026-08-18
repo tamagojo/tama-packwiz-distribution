@@ -134,11 +134,6 @@ hash = "c78021d923ba3e0dd2a4060b4fa4addd343974313cf3278f9e36359e903f442c"
 metafile = true
 
 [[files]]
-file = "mods/cobble-caf-forms.pw.toml"
-hash = "8efe7db6e7dcd371c8b7395fc5fc2b14c4a4c13d5d58cc65eacdc48ffd4a57a7"
-metafile = true
-
-[[files]]
 file = "mods/cobbledex-rei-emi-jei.pw.toml"
 hash = "2572c1dfedd771eacc3befd602999754014aa667efa7d4abd96f10d664af3e9c"
 metafile = true
@@ -190,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "cfa9a5b9b203c6c7f06ed44845b07a4b511c5f8ec0472bfcc38404b367d261d5"
+hash = "40aedc8d42b579b798abce4b54f9c33f63b69674243953f8313228d0f64b9ef3"
 metafile = true
 
 [[files]]
@@ -204,13 +199,23 @@ hash = "c8a5e934d8837a69d6ba703d2f8fe93503dc80f15530570f20692b76a6cd1a61"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-synchro-machine.pw.toml"
+hash = "9572cc5e5efda430ece063e51a678a013e127c1d9cb2402dbf8d144dbd862a83"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "748f9d8851fd34947a3451579aed7f1ec026e4de62ae28227e5d226cc386f178"
 metafile = true
 
 [[files]]
+file = "mods/cobblemonhighlights.pw.toml"
+hash = "f4006ce3dd3b40a81333a3fe909d6304df80ea1c13d37013c0212fc9ecb86d36"
+metafile = true
+
+[[files]]
 file = "mods/cobblemonraiddens.pw.toml"
-hash = "191d6740f6c6d922db25f52271d006bed3508785f6f035e6068b3a21b3900354"
+hash = "048deeed2d213d567b087797f5d0ad55a9a57e12d64b0af4818961f165f068ef"
 metafile = true
 
 [[files]]
@@ -275,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "a2fc1d1ef2d3d73f83498e9557dff55eb6c6434716d7988c43a23706abca1f24"
+hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
 metafile = true
 
 [[files]]
@@ -455,12 +460,12 @@ metafile = true
 
 [[files]]
 file = "mods/dap-ur-homies.pw.toml"
-hash = "bded0ffeb6df11b3853fc2eb5202e493d0433c052b9fd1e142ade32f5b397fff"
+hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
 file = "mods/dashpanels.pw.toml"
-hash = "0069a00316d717e769e8da7bea1168a7264fb09c5e56daf778e018396ddb88b1"
+hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
 metafile = true
 
 [[files]]
@@ -755,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/navas-zamega.pw.toml"
-hash = "1bf20cef5da92390afb3b535347ff7b2863a167c649e84c313aa9e606b0abeff"
+hash = "8896f3a17c1b664867b4c0763100a48336284736c3473df35e351eb5f62c8cd6"
 metafile = true
 
 [[files]]
@@ -770,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "089eb79244d52a34771cf2ee53ecbd99b553569b26623b464679b67a7653f071"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
@@ -844,13 +849,18 @@ hash = "396cc8f9a562c9592c835569ac3ba5373e479b2e8c4bd385f99f835a9cfbf5ed"
 metafile = true
 
 [[files]]
+file = "mods/sable-sure-footing.pw.toml"
+hash = "27baa699ff025d9c84da6019dd2899c2e8f429395b16b0e109d11f535add22b7"
+metafile = true
+
+[[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
 hash = "d181220ee3cb50f61d64778d7eb011fafe95e33727a2bcd036fee8eab6517e1a"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "ce3413efd3c38d1b26a2efb4e07c7944f78aac0b040d518a0a6aee17976bd9c3"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
