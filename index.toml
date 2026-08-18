@@ -209,8 +209,8 @@ hash = "748f9d8851fd34947a3451579aed7f1ec026e4de62ae28227e5d226cc386f178"
 metafile = true
 
 [[files]]
-file = "mods/cobblemonhighlights.pw.toml"
-hash = "f4006ce3dd3b40a81333a3fe909d6304df80ea1c13d37013c0212fc9ecb86d36"
+file = "mods/cobblemonhighlight.pw.toml"
+hash = "03772835eb01fd6d18db7445af5f6e86a5a7cc0aad92289e1cf0a0aae9d3e7d7"
 metafile = true
 
 [[files]]

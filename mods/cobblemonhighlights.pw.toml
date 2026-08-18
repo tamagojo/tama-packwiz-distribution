@@ -1,8 +1,0 @@
-name = "cobblemonhighlights"
-filename = "1.0.0"
-side = "both"
-
-[download]
-url = "https://modrinth.com/mod/cobblemon-highlight/version/1.0.0"
-hash-format = "sha256"
-hash = "413663698ff65982ddfde8720a824862b2289e0667aad642fdb9909fcb2e5f4b"
