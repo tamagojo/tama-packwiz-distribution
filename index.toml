@@ -839,11 +839,6 @@ hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
-file = "mods/sable-scaling.pw.toml"
-hash = "4b88170ac178eac2111da8323690fb4f6910d2f763fac09105cb1da104700b7d"
-metafile = true
-
-[[files]]
 file = "mods/sable-schematic-tool.pw.toml"
 hash = "396cc8f9a562c9592c835569ac3ba5373e479b2e8c4bd385f99f835a9cfbf5ed"
 metafile = true
